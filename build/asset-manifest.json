@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pathfinding-Visualizer/static/css/main.64620dcc.css",
+    "main.js": "/Pathfinding-Visualizer/static/js/main.be89fade.js",
+    "index.html": "/Pathfinding-Visualizer/index.html",
+    "main.64620dcc.css.map": "/Pathfinding-Visualizer/static/css/main.64620dcc.css.map",
+    "main.be89fade.js.map": "/Pathfinding-Visualizer/static/js/main.be89fade.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64620dcc.css",
+    "static/js/main.be89fade.js"
+  ]
+}
